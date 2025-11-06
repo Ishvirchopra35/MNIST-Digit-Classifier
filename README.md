@@ -12,19 +12,19 @@ This project implements a feedforward neural network that learns to classify han
 
 ### Training Progress
 
-<img width="364" height="232" alt="image" src="https://github.com/user-attachments/assets/aceca47e-767a-4e73-a0b7-32f228d0fa8d" />
+<img width="338" height="243" alt="image" src="https://github.com/user-attachments/assets/d603b42f-cfab-42e9-91cf-aab9999877a9" />
 
 *Model training with loss decreasing over epochs*
 
 ### Custom Image Testing
 
-<img width="478" height="403" alt="image" src="https://github.com/user-attachments/assets/0e0aefd9-799f-4079-b37b-de8f0a37c768" />
+<img width="476" height="330" alt="image" src="https://github.com/user-attachments/assets/a882fe8b-4e9d-4f85-b5d3-868c5d2f27cb" />
 
 *Testing on user-provided handwritten digits*
 
 ### Model Architecture
 
-<img width="908" height="498" alt="image" src="https://github.com/user-attachments/assets/2af9010e-9fc3-41ad-b8e4-1288b5224eb7" />
+<img width="907" height="493" alt="image" src="https://github.com/user-attachments/assets/70c6c3aa-8468-4e8c-9c22-c71dc57a2bc0" />
 
 *Neural network architecture diagram*
 
